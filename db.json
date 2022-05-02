@@ -1,0 +1,112 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "name1",
+      "alterName": "alterName1"
+    },
+    {
+      "id": 2,
+      "name": "name2",
+      "alterName": "alterName2"
+    },
+    {
+      "id": 3,
+      "name": "name3",
+      "alterName": "alterName3"
+    },
+    {
+      "id": 4,
+      "name": "name4",
+      "alterName": "alterName4"
+    },
+    {
+      "id": 5,
+      "name": "name5",
+      "alterName": "alterName5"
+    },
+    {
+      "name": "aaaaa",
+      "alterName": "aaaa",
+      "id": 6
+    },
+    {
+      "name": "aaaaa",
+      "alterName": "aaaa",
+      "id": 7
+    },
+    {
+      "name": "cccccccc",
+      "alterName": "cccccccc",
+      "id": 8
+    },
+    {
+      "name": "ccc",
+      "alterName": "ccc",
+      "id": 9
+    },
+    {
+      "name": "ccc",
+      "alterName": "ccc",
+      "id": 10
+    },
+    {
+      "name": "xxx",
+      "alterName": "xxx",
+      "id": 11
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "name1"
+    },
+    {
+      "id": 2,
+      "name": "name2"
+    },
+    {
+      "id": 3,
+      "name": "name3"
+    },
+    {
+      "id": 4,
+      "name": "name4"
+    },
+    {
+      "id": 5,
+      "name": "name5"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.fr",
+      "channelId": "codeevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codeevolution",
+      "courses": [
+        "course1",
+        "course2",
+        "course3"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "red",
+      "name": "red"
+    },
+    {
+      "id": "green",
+      "name": "green"
+    },
+    {
+      "id": "blue",
+      "name": "blue"
+    }
+  ]
+}
